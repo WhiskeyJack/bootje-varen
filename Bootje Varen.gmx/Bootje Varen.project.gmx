@@ -7,7 +7,11 @@
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\sprite0</sprite>
+<<<<<<< HEAD
     <sprite>sprites\mysprite</sprite>
+=======
+    <sprite>sprites\sprite1</sprite>
+>>>>>>> origin/master
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
