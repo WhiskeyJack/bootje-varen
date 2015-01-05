@@ -8,10 +8,13 @@
   <sprites name="sprites">
     <sprite>sprites\sprite0</sprite>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <sprite>sprites\mysprite</sprite>
 =======
     <sprite>sprites\sprite1</sprite>
 >>>>>>> origin/master
+=======
+>>>>>>> parent of 9fb2486... asdsadsad
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
