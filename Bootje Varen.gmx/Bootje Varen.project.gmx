@@ -6,16 +6,80 @@
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
-    <sprite>sprites\sprite0</sprite>
-    <sprite>sprites\sprite3</sprite>
+    <sprite>sprites\Boat</sprite>
+    <sprite>sprites\Vaarweg_1</sprite>
+    <sprite>sprites\Vaarweg2</sprite>
+    <sprite>sprites\Vaarweg3</sprite>
+    <sprite>sprites\Vaarweg4</sprite>
+    <sprite>sprites\Vaarweg5</sprite>
+    <sprite>sprites\Vaarweg6</sprite>
+    <sprite>sprites\Vaarweg7</sprite>
+    <sprite>sprites\Vaarweg8</sprite>
+    <sprite>sprites\Vaarweg9</sprite>
+    <sprite>sprites\Vaarweg10</sprite>
+    <sprite>sprites\Vaarweg11</sprite>
+    <sprite>sprites\Vaarweg12</sprite>
+    <sprite>sprites\Vaarweg13</sprite>
+    <sprite>sprites\Vaarweg14</sprite>
+    <sprite>sprites\Vaarweg15</sprite>
+    <sprite>sprites\Vaarweg16</sprite>
+    <sprite>sprites\Vaarweg17</sprite>
+    <sprite>sprites\Vaarweg18</sprite>
+    <sprite>sprites\Vaarweg19</sprite>
+    <sprite>sprites\Vaarweg20</sprite>
+    <sprite>sprites\Vaarweg21</sprite>
+    <sprite>sprites\Vaarweg22</sprite>
+    <sprite>sprites\Vaarweg23</sprite>
+    <sprite>sprites\Vaarweg24</sprite>
+    <sprite>sprites\Vaarweg25</sprite>
+    <sprite>sprites\Vaarweg26</sprite>
+    <sprite>sprites\Vaarweg27</sprite>
+    <sprite>sprites\Vaarweg28</sprite>
+    <sprite>sprites\Vaarweg29</sprite>
   </sprites>
   <backgrounds name="background"/>
-  <paths name="paths"/>
+  <paths name="paths">
+    <path>paths\path0</path>
+  </paths>
+  <scripts name="scripts">
+    <script>scripts\PlayerController.gml</script>
+    <script>scripts\LandCollision.gml</script>
+  </scripts>
   <objects name="objects">
-    <object>objects\object0</object>
+    <object>objects\PlayerBoat</object>
+    <object>objects\object4</object>
+    <object>objects\object5</object>
+    <object>objects\object6</object>
+    <object>objects\object7</object>
+    <object>objects\object8</object>
+    <object>objects\object9</object>
+    <object>objects\object10</object>
+    <object>objects\object11</object>
+    <object>objects\object12</object>
+    <object>objects\object13</object>
+    <object>objects\object14</object>
+    <object>objects\object15</object>
+    <object>objects\object16</object>
+    <object>objects\object17</object>
+    <object>objects\object18</object>
+    <object>objects\object19</object>
+    <object>objects\object20</object>
+    <object>objects\object21</object>
+    <object>objects\object22</object>
+    <object>objects\object23</object>
+    <object>objects\object24</object>
+    <object>objects\object25</object>
+    <object>objects\object26</object>
+    <object>objects\object27</object>
+    <object>objects\object28</object>
+    <object>objects\object29</object>
+    <object>objects\object30</object>
+    <object>objects\object31</object>
+    <object>objects\object32</object>
+    <object>objects\LAND</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\room0</room>
+    <room>rooms\Game</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
